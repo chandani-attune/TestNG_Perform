@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3387" started-at="2016-06-29T11:50:37Z" finished-at="2016-06-29T11:50:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3387" started-at="2016-06-29T11:50:37Z" finished-at="2016-06-29T11:50:40Z">
+      <class name="te.SampleTestCaseTest">
+        <test-method status="PASS" signature="MyTest1()[pri:0, instance:te.SampleTestCaseTest@173813a]" name="MyTest1" duration-ms="15" started-at="2016-06-29T17:20:37Z" finished-at="2016-06-29T17:20:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyTest1 -->
+        <test-method status="PASS" signature="PerTest()[pri:0, instance:te.SampleTestCaseTest@173813a]" name="PerTest" duration-ms="3354" started-at="2016-06-29T17:20:37Z" finished-at="2016-06-29T17:20:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PerTest -->
+      </class> <!-- te.SampleTestCaseTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
