@@ -31,7 +31,7 @@ public class RunJemerTests {
 
 
         // Load existing .jmx Test Plan
-        FileInputStream in = new FileInputStream("src/test/jmeter/AttuneUsers.jmx");
+        FileInputStream in = new FileInputStream("src/test/jmeter/AttueUSers3.jmx");
         HashTree testPlanTree = SaveService.loadTree(in);
         in.close();
 
